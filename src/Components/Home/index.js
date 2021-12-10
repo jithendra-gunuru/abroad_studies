@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./navbar";
 import Header from "./Header";
 import Rectangle1 from "./Rectangle1";
+import "./index.css"
 function Index() {
   return (
     <div>

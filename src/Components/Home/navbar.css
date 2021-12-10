@@ -1,9 +1,8 @@
-body{
-margin: 0px 0px 0px 0px;
-}
+* { padding: 0;   margin: 0;}
+html, body { margin: 0; padding: 0; } 
 .container
 {
-width:1540px;
+width:1535px;
 margin: 0px 10px 0px 0px;
 height:52px;
 background: linear-gradient(89.99deg, #2B3990 37.03%, #2D3A8F 37.04%, #393F87 41.3%, #8B6153 67.2%, #F48D10 99.99%);
