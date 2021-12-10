@@ -1,0 +1,78 @@
+body{
+ margin: 0px;
+}
+.style {
+  width: 1540pxpx;
+  height: 130px;
+  background: #ffffff;
+}
+.logo {
+  position: absolute;
+  width: 142px;
+  height: 34px;
+  left: 351px;
+  top: 77px;
+}
+.home_style {
+  position: absolute;
+  width: 45px;
+  height: 9px;
+  left: 886px;
+  top: 89px;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 9px;
+  /* identical to box height, or 56% */
+  text-align: center;
+  letter-spacing: -0.333333px;
+  color: #000000;
+}
+.IELTS_style {
+  position: absolute;
+  width: 37px;
+  height: 9px;
+  left: 975px;
+  top: 89px;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 9px;
+  /* identical to box height, or 56% */
+  text-align: center;
+  letter-spacing: -0.333333px;
+  color: #000000;
+}
+.TOEFL_style {
+  position: absolute;
+  width: 45px;
+  height: 9px;
+  left: 1056px;
+  top: 89px;
+
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 9px;
+  /* identical to box height, or 56% */
+
+  text-align: center;
+  letter-spacing: -0.333333px;
+
+  color: #000000;
+}
+.button-class {
+  position: absolute;
+  width: 164px;
+  height: 36px;
+  left: 1143px;
+  top: 75px;
+  color: #FFFFFF;
+  background: #2b3990;
+  border-radius: 7px;
+  padding-top: 5px;
+}
+

@@ -1,0 +1,13 @@
+body {
+  margin: 0px 0px 0px 0px;
+}
+.Rectangle-1 {
+  position: absolute;
+  width: 1500px;
+  height: 130px;
+  left: 8px;
+  top: 213px;
+  background: linear-gradient(180deg, #a3affb 51.02%, #d7ddff 100%);
+  margin-right: 530px;
+}
+

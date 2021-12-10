@@ -1,0 +1,63 @@
+body{
+margin: 0px 0px 0px 0px;
+}
+.container
+{
+width:1540px;
+margin: 0px 10px 0px 0px;
+height:52px;
+background: linear-gradient(89.99deg, #2B3990 37.03%, #2D3A8F 37.04%, #393F87 41.3%, #8B6153 67.2%, #F48D10 99.99%);
+
+}
+.facebook{
+width:18px;
+height:18px;
+position: absolute;
+Top :19px;
+Left: 351px;
+
+}
+.instagram{
+width:18px;
+height:18px;
+position: absolute;
+Top :19px;
+Left: 375.47px;
+
+}
+.twitter{
+width:17.44px;
+height:18px;
+position: absolute;
+Top :19px;
+Left: 399.94px;
+
+}
+.phone{
+width:18px;
+height:18px;
+position: absolute;
+left: 32.95%;
+right: 66.1%;
+top: 0.7%;
+bottom: 98.74%;
+margin-top:13px;
+margin-left:53px;
+
+}
+.Text{
+font-family: SF Pro Display;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 9px;
+letter-spacing: -0.3333333432674408px;
+text-align: center;
+height: 25px;
+width: 125px;
+position: absolute;
+left: 584px;
+top: 22px;
+color: #FFFFFF;
+margin-left:3px;
+}
