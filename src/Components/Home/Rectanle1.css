@@ -1,15 +1,7 @@
-* {
-  padding: 0;
-  margin: 0;
-}
-html,
-body {
-  margin: 0;
-  padding: 0;
-}
 .Rectangle-1 {
-  position: fixed;
-  width: 1535px;
+  position: absolute;
+  left: 6px;
+  width: 1529px;
   height: 430px;
   top: 213px;
   background: linear-gradient(180deg, #a3affb 51.02%, #d7ddff 100%);
@@ -60,13 +52,175 @@ body {
   top: 175px;
   background: #f7941d;
   border-radius: 7px;
-  color: #FFFFFF;
+  color: #ffffff;
   border: none;
 }
-.WOMEN{
-    position: absolute;
-    width: 470px;
-    height: 355px;
-    left: 625px;
-    top: 80px;
+.WOMEN {
+  position: absolute;
+  width: 470px;
+  height: 355px;
+  left: 640px;
+  top: 90px;
+  z-index: 1;
 }
+.Ellipse1{
+  position: absolute;
+  width: 470px;
+  height: 460px; 
+  left: 900px;
+  top: -35px;
+  z-index: 1;
+  opacity: 0.44;
+  /* border: 3px dashed #2B3990; */
+  box-sizing: border-box;
+  }
+.Ellipse2{
+  position: absolute;
+  left: 1000px;
+  top:80px;
+  z-index: 2;
+}
+.rect-forum {
+  position: absolute;
+  width: 334px;
+  height: 370px;
+  left: 960px;
+  top: 20px;
+z-index: 3;
+  background: #ffffff;
+  box-shadow: 0px 0px 14px 1px #d7ddff;
+  border-radius: 19px;
+}
+.forum-head {
+  position: absolute;
+  width: 133px;
+  height: 31px;
+  left: 100px;
+  top: 30px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 27px;
+  line-height: 9px;
+  /* or 33% */
+
+  text-align: center;
+  letter-spacing: -0.333333px;
+
+  color: #2b3543;
+}
+.form_inp1 {
+  position: absolute;
+  width: 291px;
+  height: 42px;
+  left: 20px;
+  top: 58px;
+  background-color: #d7ddff;
+  border-radius: 9px;
+  border: none;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 9px;
+  /* or 45% */
+
+  letter-spacing: -0.333333px;
+
+  color: #2b3543;
+  padding-left: 15px;
+}
+.form_inp1::placeholder {
+  color: #2b3543;
+  opacity: 1;
+}
+.form_inp2 {
+  position: absolute;
+  width: 291px;
+  height: 42px;
+  left: 20px;
+  top: 105px;
+  background-color: #d7ddff;
+  border-radius: 9px;
+  border: none;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 9px;
+  /* or 45% */
+
+  letter-spacing: -0.333333px;
+
+  color: #2b3543;
+  padding-left: 15px;
+}
+.form_inp2::placeholder {
+  color: #2b3543;
+  opacity: 1;
+}
+.form_inp3 {
+  position: absolute;
+  width: 291px;
+  height: 42px;
+  left: 20px;
+  top: 152px;
+  background-color: #d7ddff;
+  border-radius: 9px;
+  border: none;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 9px;
+  /* or 45% */
+
+  letter-spacing: -0.333333px;
+
+  color: #2b3543;
+  padding-left: 15px;
+}
+.form_inp3::placeholder {
+  color: #2b3543;
+  opacity: 1;
+}
+.form_inp4 {
+  position: absolute;
+  width: 291px;
+  height: 85px;
+  left: 20px;
+  top: 200px;
+  background-color: #d7ddff;
+  border-radius: 9px;
+  border: none;
+  font-family: SF Pro Display;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 9px;
+  /* or 45% */
+
+  letter-spacing: -0.333333px;
+
+  color: #2b3543;
+  padding-left: 15px;
+}
+.form_inp4::placeholder {
+  color: #2b3543;
+  opacity: 1;
+  position: relative;
+  bottom: 20px;
+}
+.form_button {
+  position: relative;
+  width: 306px;
+  height: 42px;
+  left: 20px;
+  top: 300px;
+  color: white;
+  background: #2b3990;
+  border-radius: 9px;
+  border:none;
+}
+
